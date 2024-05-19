@@ -42,3 +42,12 @@ nav ul li a:active {
 #nav-margin {
      margin-left: 10px;
 }
+
+/* hero img */
+.hero {
+    background-image: url(../image/audi.png);
+    height: 700px;
+    background-position: -180px -220px ;
+    border-top:5px solid #5AB2FF;
+    border-bottom: 5px solid #FA7070;
+}
