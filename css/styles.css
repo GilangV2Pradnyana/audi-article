@@ -52,9 +52,19 @@ nav ul li a:active {
     border-bottom: 5px solid #FA7070;
 }
 
+/* Article-container */
+main {
+    padding: 20px 10px 20px 10px;
+}
+
+
 /* article */
 article {
-    padding: 10px 10px 10px 10px;
+    width: 600px;
+    box-sizing: border-box;
+    float: left;
+    border-top: 2px solid #FF204E;
+    padding-right: 20px;
 }
 article h1 {
     color: #31363F;
@@ -75,7 +85,32 @@ article p {
     text-align: justify;
 }
 
-/* footer */
+/* sidebar */
+.sidebar {
+    border-left: 2px solid #FF204E;
+    border-top: 2px solid #FF204E;
+    padding-top: 80px;
+    padding-left: 20px;
+    margin-left: 600px;
+    height: 598px;
+} 
+
+.sidebar img{
+    height: 100px;
+    width: 100px;
+    float: left;
+    padding-right: 5px;
+ }
+.sidebar p{
+    font-size: 13px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    text-align: justify;
+}
+
+
+
+ /* footer */
 footer {
     color: #F6F5F2;
     background-color: #222831;
