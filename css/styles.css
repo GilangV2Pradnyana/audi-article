@@ -51,3 +51,26 @@ nav ul li a:active {
     border-top:5px solid #5AB2FF;
     border-bottom: 5px solid #FA7070;
 }
+
+/* article */
+article {
+    padding: 10px 10px 10px 10px;
+}
+article h1 {
+    color: #31363F;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 30px;
+}
+article h2 {
+    font-family: 'Nunito Sans';
+    padding-top: 10px;
+    font-weight: 400;
+    font-size: 20px;
+}
+article p {
+    font-size: 16px;
+    font-family: 'Montserrat';
+    padding-top: 20px;
+    text-align: justify;
+}
