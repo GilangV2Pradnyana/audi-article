@@ -74,3 +74,11 @@ article p {
     padding-top: 20px;
     text-align: justify;
 }
+
+/* footer */
+footer {
+    color: #F6F5F2;
+    background-color: #222831;
+    padding: 20px;
+    text-align: center;
+}
